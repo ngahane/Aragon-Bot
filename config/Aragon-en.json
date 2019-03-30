@@ -1,0 +1,5 @@
+{
+  "login": ["Enter your login", ["response1", "response2", "response3"]],
+  "name": ["What is your name?"]
+}
+  
